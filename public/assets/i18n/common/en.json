@@ -1,0 +1,10 @@
+{
+    "login": "Login",
+    "country": "Country",
+    "city": "City",
+    "username": "Username",
+    "password": "Password",
+    "submit": "Let's go",
+    "hello": "Hello '{{title}}'",
+    "signOut": "SignOut"
+}
